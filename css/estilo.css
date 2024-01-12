@@ -199,12 +199,13 @@ footer {
 
 .logo-rodape {
     display: block;
+    width: 200px;
     text-align: center;
     /* border: 1px solid black; */
 }
 
 .logo-rodape img {
-    width: 200px;
+    width: 180px;
     margin-top: 0px;
     padding: 0;
 }
