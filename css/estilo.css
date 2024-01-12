@@ -12,7 +12,7 @@ body {
 .navbar {
     display: flex;
     flex-flow: row wrap;
-    height: 80px;
+    height: 75px;
     background-image: linear-gradient(rgb(255, 240, 207), white);
     justify-content: center;
     align-items: center;
@@ -22,7 +22,7 @@ body {
 
 .logo {
     flex: 25%;
-    margin-left: 5%;
+    margin-left: 10%;
     text-align: left;
 }
 
